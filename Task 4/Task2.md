@@ -1,0 +1,1 @@
+I am very interested in this task as i really want to learn about Raspberry Pi and Computer Vision. Also I am very curious how the bot will balance the ball in real time and how the servo motors will function to do it.

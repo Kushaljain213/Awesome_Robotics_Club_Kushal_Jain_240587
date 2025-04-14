@@ -1,4 +1,4 @@
-1) Capacitive Sensor :-   
+# 1) Capacitive Sensor :-   
      
 * Capacitive pressure sensors measure pressure by detecting changes in electrical capacitance caused by the movement of plates of capacitor.  
 * High Sensitivity  
@@ -13,7 +13,7 @@
 * Relatively easier to integrate in a system
 
 
-                          **Cons :-** 
+  **Cons** :-                       
 
 * Due to environmental sensitivity it might give some errors while determining position of ball  
 * Filtering noises could result in slight delay in detecting ball movements      
@@ -21,14 +21,14 @@
 
   	
 
-2) Infra Red Sensors :-   
+# 2) Infra Red Sensors :-   
      
 * Infra Red Sensors emits the light in order to sense some object of the surroundings.  
 * **Working :-** The IR Led emist light on the ball and it detects the light reflected back. The amount of light detected changes based on distance. More distance means less light and less distance means more light.  
     
     
     
-  **Pros :-**   
+ **Pros :-**   
 * Good for short range detection  
 * Very fast response time  
 * Very low cost  
@@ -36,8 +36,7 @@
 
   		
 
-
-            **Cons :-** 
+**Cons** :-            
 
 * Accuracy might get affected by lights and color of ball  
 * we need to use multiple sensors for high accuracy  
